@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # library_management_system
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# library_management_system
+>>>>>>> 62991a7cff2c35d2becc3994c986b2bb0485e044
